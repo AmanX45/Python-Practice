@@ -1,1 +1,95 @@
+# 🐍 Python Fundamentals Practice
+
+This repository contains my personal practice of Python basics, as part of a complete refresh of core programming concepts. These fundamentals are essential for AI, Machine Learning, and interview preparation.
+
+The goal is to keep my Python logic sharp and interview-ready by solving mini problems, writing concept-based code, and reinforcing syntax through hands-on practice.
+
+---
+
+## 📘 Topics Covered Day 1 ________
+
+Below is a breakdown of each topic with a short description:
+
+### ✅ Character Set
+Understanding the set of characters recognized by Python (based on Unicode), essential for string processing and internationalization.
+
+### ✅ Identifiers
+Rules for naming variables, functions, and classes — case sensitivity, allowed characters, and naming best practices.
+
+### ✅ Variables
+How to declare, assign, and update variables dynamically in Python.
+
+### ✅ Keywords
+Reserved words in Python that cannot be used as identifiers. Examples: `if`, `else`, `class`, `def`, etc.
+
+### ✅ Data Types
+Common built-in data types like:
+- `int`, `float`, `str`, `bool`
+- `list`, `tuple`, `set`, `dict`
+
+### ✅ Operators
+Arithmetic, assignment, comparison, logical, bitwise, membership, and identity operators used to perform operations on data.
+
+### ✅ Type Casting
+Manually converting between data types using functions like `int()`, `float()`, `str()`, etc.
+
+### ✅ Input
+Taking user input via the `input()` function and handling it safely.
+
+### ✅ Type Conversion
+Automatic or manual conversion between compatible data types during expressions or operations.
+
+### ✅ Strings
+Declaring strings, using quotes, multi-line strings, and working with characters.
+
+### ✅ Escape Sequence Characters
+Special characters like `\n`, `\t`, `\\`, `\"` that help format or include special characters inside strings.
+
+### ✅ String Concatenation
+Joining strings using the `+` operator and formatting them using `f-strings`, `format()`, etc.
+
+### ✅ Indexing
+Accessing specific characters from strings using zero-based indexing.
+
+### ✅ Length of String
+Using `len()` to find the total number of characters in a string.
+
+### ✅ String Slicing (incl. Negative Slicing)
+Extracting substrings using `[start:stop:step]` and slicing with negative indices.
+
+### ✅ String Functions
+Common built-in methods like `upper()`, `lower()`, `replace()`, `find()`, `split()`, etc.
+
+### ✅ Conditional Statements
+Using `if`, `elif`, and `else` to make decisions based on conditions.
+
+### ✅ Nested If
+Multiple `if` conditions placed inside each other for complex decision-making.
+
+### ✅ Lists and Tuples
+- **List**: mutable, ordered collection with methods like `append()`, `extend()`, `sort()`
+- **Tuple**: immutable version of a list
+
+---
+
+
+## 📘 Topics Covered Day 2 ________
+## 📘 Topics Covered Day 3 ________
+## 📘 Topics Covered Day 4 ________
+## 📘 Topics Covered Day 5 ________
+## 📘 Topics Covered Day 6 ________
+## 📘 Topics Covered Day 7 ________
+
+## 🧠 Why This Repo?
+
+I'm building this as part of my journey into AI & Machine Learning. Having strong Python fundamentals helps with model implementation, data handling, and debugging complex logic.
+
+---
+
+## 📌 Usage
+
+Feel free to explore, fork, or use these examples for your own revision:
+```bash
+# Run any script
+python topic_name.py
 
