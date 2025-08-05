@@ -70,10 +70,31 @@ Multiple `if` conditions placed inside each other for complex decision-making.
 - **List**: mutable, ordered collection with methods like `append()`, `extend()`, `sort()`
 - **Tuple**: immutable version of a list
 
----
+------------------------------------------------------------------------------------------------
 
 
-## 📘 Topics Covered Day 2 ________
+📘 Day 2: Python Practice – Dictionaries & Sets
+📌 Description
+This repository contains my Day 2 Python practice, focused on mastering:
+
+✅ Dictionaries – key-value pairs for storing structured data
+
+✅ Nested Dictionaries – dictionaries within dictionaries
+
+✅ Dictionary Methods – like .get(), .keys(), .items(), .update(), .pop()
+
+✅ Sets – unordered collections of unique elements
+
+✅ Empty Set – created using set()
+
+✅ Set Methods – like .add(), .remove(), .union(), .intersection(), etc.
+
+🔹 Code files are included for each topic with practical examples.
+🔹 I’ve also shared a learning update on LinkedIn to track my progress and connect with the tech community.
+
+
+
+
 ## 📘 Topics Covered Day 3 ________
 ## 📘 Topics Covered Day 4 ________
 ## 📘 Topics Covered Day 5 ________
