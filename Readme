@@ -95,7 +95,48 @@ This repository contains my Day 2 Python practice, focused on mastering:
 
 
 
-## 📘 Topics Covered Day 3 ________
+# 📅 Day 3 – Python Loops: while loop, Infinite Loops, break & continue, Mini Projects
+
+Continuing my Python journey, today I focused on one of the core concepts of programming — **loops**, specifically the `while` loop. I explored how loops work under the hood, how dangerous infinite loops can be if not controlled, and how to use `break` and `continue` to manage loop behavior effectively.
+
+To apply these concepts, I also built some **mini-projects** that simulate real-world logic, like ATM menus, number games, and login systems — all based on loops.
+
+---
+
+## 🧠 What I Learned
+
+### 🔁 `while` Loop
+Used when the number of iterations is not known in advance. The loop keeps running as long as the condition is `True`.
+
+```python
+i = 0
+while i < 5:
+    print("i is", i)
+    i += 1
+______________________________________
+# infinite loop
+while True:
+    print("This runs forever unless we break it.")
+______________________________________
+
+# break 
+i = 1
+while i <= 10:
+    if i == 5:
+        break
+    print(i)
+    i += 1
+______________________________________
+i = 0
+while i < 5:
+    i += 1
+    if i == 3:
+        continue
+    print(i)
+
+
+______________________________________
+
 ## 📘 Topics Covered Day 4 ________
 ## 📘 Topics Covered Day 5 ________
 ## 📘 Topics Covered Day 6 ________
