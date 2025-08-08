@@ -137,7 +137,51 @@ while i < 5:
 
 ______________________________________
 
-## 📘 Topics Covered Day 4 ________
+
+# **📒Day 4 – Python Practice**
+
+### **Topics Learned Today**
+
+---
+
+## **1. for loop**
+
+A `for` loop in Python is used to repeat a block of code multiple times by iterating over a sequence such as a list, tuple, string, dictionary, or any other iterable object.
+It automatically goes through each item in the sequence one by one, making it useful for tasks like processing items in a list, printing values, or performing calculations on a range of numbers.
+
+---
+
+## **2. range() function**
+
+The `range()` function is often used with `for` loops to generate a sequence of numbers.
+It can take up to three arguments:
+
+* **start** → The first number of the sequence (default is 0).
+* **stop** → The point where the sequence ends (this number is not included).
+* **step** → The difference between each number in the sequence (default is 1).
+
+It is commonly used when you know how many times you want the loop to run or when you need a numerical sequence to work with.
+
+---
+
+## **3. pass statement**
+
+The `pass` statement is a placeholder in Python.
+It does nothing when executed, but it allows the code to remain syntactically correct.
+It is often used when writing code that you plan to complete later, or when you need an empty block (for example, inside a loop, function, or class) without causing an error.
+
+---
+
+### **Famous Projects Using These Topics**
+
+* **Number Guessing Game** – Continues looping until the correct guess is made.
+* **Multiplication Table Generator** – Uses loops and ranges to create tables dynamically.
+* **Pattern Printing** – Uses nested loops for patterns like pyramids or stars.
+* **To-Do List CLI** – Displays tasks in a loop, with `pass` for features to be added later.
+* **Prime Number Checker** – Iterates over a range to identify prime numbers.
+
+____________________________________________________________________________________________\
+
 ## 📘 Topics Covered Day 5 ________
 ## 📘 Topics Covered Day 6 ________
 ## 📘 Topics Covered Day 7 ________
