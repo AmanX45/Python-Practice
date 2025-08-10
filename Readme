@@ -182,7 +182,57 @@ It is often used when writing code that you plan to complete later, or when you 
 
 ____________________________________________________________________________________________\
 
-## 📘 Topics Covered Day 5 ________
+## 📌 Day 5– Functions in Python
+
+Today’s practice session was all about **Functions in Python** — one of the most important building blocks for writing clean, reusable, and efficient code.
+
+---
+
+### 🛠 What is a Function?
+
+A **function** is a block of organized and reusable code that is used to perform a specific task.
+It allows us to avoid repetition, make programs easier to manage, and improve readability.
+
+---
+
+### 🔹 1. Built-in Functions
+
+* These are **predefined functions** provided by Python.
+* You can use them directly without defining them yourself.
+* Examples include `len()`, `print()`, `type()`, `max()`, `sum()`, etc.
+* They save time since they are already optimized and tested by Python.
+
+---
+
+### 🔹 2. User-defined Functions
+
+* Created by the **programmer** to perform custom operations.
+* We define them using the `def` keyword followed by the function name and parentheses.
+* They help in organizing code into smaller, logical parts.
+
+---
+
+### 🔹 3. Parameters in Functions
+
+Parameters are **variables inside parentheses** in a function definition that receive values when the function is called.
+There are several types:
+
+* **Positional Parameters** – Values are assigned based on position.
+* **Default Parameters** – Predefined values if no argument is passed.
+* **Keyword Parameters** – Specify arguments using parameter names.
+* **Variable-length Parameters** – Using `*args` (non-keyword) and `**kwargs` (keyword arguments) to handle flexible numbers of inputs.
+
+---
+
+### 📍 Key Takeaways
+
+* Functions make programs **modular, reusable, and easy to debug**.
+* Built-in functions speed up development.
+* User-defined functions give you **full control** over your code logic.
+* Parameters make functions **flexible and dynamic**.
+
+___________________________________________________________________________________________________________________________________________
+
 ## 📘 Topics Covered Day 6 ________
 ## 📘 Topics Covered Day 7 ________
 
